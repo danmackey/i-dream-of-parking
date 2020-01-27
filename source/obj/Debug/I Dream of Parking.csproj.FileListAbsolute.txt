@@ -1,0 +1,16 @@
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.csprojAssemblyReference.cache
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I_Dream_of_Parking.GUI.resources
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I_Dream_of_Parking.GUIadmin.resources
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.csproj.GenerateResource.cache
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.exe
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.pdb
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\I Dream of Parking.exe.config
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\I Dream of Parking.exe
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\I Dream of Parking.pdb
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\Dapper.dll
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\Dapper.xml
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\obj\Debug\I Dream of Parking.csproj.CopyComplete
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\Newtonsoft.Json.pdb
+D:\Documents\GitHub\ProjectDreams\I Dream of Parking\I Dream of Parking\I Dream of Parking\bin\Debug\Newtonsoft.Json.xml
